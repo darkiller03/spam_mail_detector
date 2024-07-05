@@ -1,4 +1,4 @@
-# Spam Mail Detection
+# Spam Mail Detection (ML & python)
 
 This project demonstrates the detection of spam emails using machine learning techniques. The notebook includes data preprocessing, feature extraction, model training, and prediction steps.
 
