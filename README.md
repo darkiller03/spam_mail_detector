@@ -32,9 +32,6 @@ The dataset contains the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/darkiller03/spam_mail_detector.git
-
 2. Install the required libraries:
    ```bash
-      pip install pandas numpy nltk scikit-learn
-
-
+   pip install pandas numpy nltk scikit-learn
